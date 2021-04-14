@@ -11,7 +11,7 @@ import {
   CollectionIcon,
 } from '@heroicons/react/outline'
 
-//Stores insight information. Add block to create a new card. Must assign it a relevant category to appear in when filtered.
+//Stores insight information. Add block to create a new card. Must assign it a relevant category to appear in a filter.
 
 const insights = [
   {
